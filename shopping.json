@@ -23,7 +23,7 @@
     {
       "id": 3,
       "name": "Men's Fancy Jeans",
-      "img": "images/Mens Fancy Jeans.jpg",
+      "img": "images/Mens Fancy jeans.jpg",
       "category": "Men",
       "type": "Casual",
       "size": ["M", "L", "XL"],
@@ -293,7 +293,7 @@
     {
       "id": 30,
       "name": "Children's Formal Shoes",
-      "img": "images/hildrens Formal Dress Shoes.jpg",
+      "img": "images/children Formal Dress Shoes.jpg",
       "category": "Shoes",
       "type": "Formal",
       "size": ["S", "M", "L"],
