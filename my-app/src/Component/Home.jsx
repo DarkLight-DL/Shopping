@@ -556,7 +556,7 @@ const Home = () => {
         </Stack>
         <Grid container spacing={2}>
           {[...Array(16)].map((_, idx) => (
-            <Grid item xs={6} sm={6} md={4} lg={3} key={idx}>
+            <Grid size={{ xs: 6, sm: 6, md: 4, lg: 3 }} key={idx}>
               <Card>
                 <Skeleton variant="rectangular" height={200} width="100%" />
                 <CardContent>
