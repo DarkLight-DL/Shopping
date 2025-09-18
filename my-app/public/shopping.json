@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Men's Casual Shirt",
-      "img":"/images/Mens Casual Shirt.jpg",
+      "img":"/images/MensCasualShirt.jpg",
       "category": "Men",
       "type": "Casual",
       "size": ["M", "L", "XL"],
@@ -13,7 +13,7 @@
     {
       "id": 2,
       "name": "Men's Formal Suit",
-      "img": "/images/Mens Formal Suit.jpg",
+      "img": "/images/MensFormalSuit.jpg",
       "category": "Men",
       "type": "Formal",
       "size": ["M", "L", "XL", "XXL"],
@@ -23,7 +23,7 @@
     {
       "id": 3,
       "name": "Men's Fancy Jeans",
-      "img": "/images/Mens Fancy jeans.jpg",
+      "img": "/images/MensFancyjeans.jpg",
       "category": "Men",
       "type": "Casual",
       "size": ["M", "L", "XL"],
@@ -33,7 +33,7 @@
     {
       "id": 4,
       "name": "Men’s Office Shirt",
-      "img": "/images/Mens Office Shirt.jpg",
+      "img": "/images/MensOfficeShirt.jpg",
       "category": "Men",
       "type": "Formal",
       "size": ["M", "L", "XL"],
@@ -43,7 +43,7 @@
     {
       "id": 5,
       "name": "Children's Casual T-Shirt",
-      "img": "/images/Childrens Casual T-Shirt.jpg",
+      "img": "/images/ChildrensCasualT-Shirt.jpg",
       "category": "Children",
       "type": "Casual",
       "size": ["XS", "S", "M"],
@@ -53,7 +53,7 @@
     {
       "id": 6,
       "name": "Children's Formal Dress Shirt",
-      "img": "/images/Childrens Formal Dress Shirt.jpg",
+      "img": "/images/ChildrensFormalDressShirt.jpg",
       "category": "Children",
       "type": "Formal",
       "size": ["XS", "S", "M"],
@@ -63,7 +63,7 @@
     {
       "id": 7,
       "name": "Children's Denim Jeans",
-      "img": "/images/Childrens Denim Jeans.jpg",
+      "img": "/images/ChildrensDenimJeans.jpg",
       "category": "Children",
       "type": "Casual",
       "size": ["XS", "S", "M"],
@@ -73,7 +73,7 @@
     {
       "id": 8,
       "name": "Children’s Formal Blazer",
-      "img": "/images/Childrens Formal Blazer.jpg",
+      "img": "/images/ChildrensFormalBlazer.jpg",
       "category": "Children",
       "type": "Formal",
       "size": ["S", "M", "L"],
@@ -83,7 +83,7 @@
     {
       "id": 9,
       "name": "Men's Casual Hoodie",
-      "img": "/images/Mens Casual Hoodie.jpg",
+      "img": "/images/MensCasualHoodie.jpg",
       "category": "Men",
       "type": "Casual",
       "size": ["L", "XL"],
@@ -93,7 +93,7 @@
     {
       "id": 10,
       "name": "Children's Casual Shorts",
-      "img": "/images/Childrens Casual Shorts.jpg",
+      "img": "/images/ChildrensCasualShorts.jpg",
       "category": "Children",
       "type": "Casual",
       "size": ["XS", "S"],
@@ -103,7 +103,7 @@
     {
       "id": 11,
       "name": "Men's Casual Polo Shirt",
-      "img": "/images/Mens Casual Polo Shirt.jpg",
+      "img": "/images/MensCasualPoloShirt.jpg",
       "category": "Men",
       "type": "Casual",
       "size": ["M", "L", "XL", "XXL"],
@@ -113,7 +113,7 @@
     {
       "id": 12,
       "name": "Men's Formal Dress Pants",
-      "img": "/images/Mens Formal Dress Pants.jpg",
+      "img": "/images/MensFormalDressPants.jpg",
       "category": "Men",
       "type": "Formal",
       "size": ["M", "L", "XL", "XXL"],
@@ -123,7 +123,7 @@
     {
       "id": 13,
       "name": "Children's Casual Hoodie",
-      "img": "/images/Childrens Casual Hoodie.jpg",
+      "img": "/images/ChildrensCasualHoodie.jpg",
       "category": "Children",
       "type": "Casual",
       "size": ["XS", "S", "M"],
@@ -133,7 +133,7 @@
     {
       "id": 14,
       "name": "Children's Formal Trousers",
-      "img": "/images/Childrens Formal Trousers.jpg",
+      "img": "/images/ChildrensFormalTrousers.jpg",
       "category": "Children",
       "type": "Formal",
       "size": ["XS", "S", "M"],
@@ -143,7 +143,7 @@
     {
       "id": 15,
       "name": "Men's Casual Sweatshirt",
-      "img": "/images/Mens Casual Sweatshirt.jpg",
+      "img": "/images/MensCasualSweatshirt.jpg",
       "category": "Men",
       "type": "Casual",
       "size": ["M", "L", "XL"],
@@ -153,7 +153,7 @@
     {
       "id": 16,
       "name": "Men's Formal Waistcoat",
-      "img": "/images/Mens Formal Waistcoat.jpg",
+      "img": "/images/MensFormalWaistcoat.jpg",
       "category": "Men",
       "type": "Formal",
       "size": ["M", "L", "XL"],
@@ -163,7 +163,7 @@
     {
       "id": 17,
       "name": "Children's Casual Jeans",
-      "img": "/images/Childrens Casual Jeans.jpg",
+      "img": "/images/ChildrensCasualJeans.jpg",
       "category": "Children",
       "type": "Casual",
       "size": ["XS", "S", "M"],
@@ -173,7 +173,7 @@
     {
       "id": 18,
       "name": "Children's Formal Vest",
-      "img": "/images/Childrens Formal Vest.jpg",
+      "img": "/images/ChildrensFormalVest.jpg",
       "category": "Children",
       "type": "Formal",
       "size": ["S", "M"],
@@ -183,7 +183,7 @@
     {
       "id": 19,
       "name": "Men's Casual Cargo Pants",
-      "img": "/images/Mens Casual Cargo Pants.jpg",
+      "img": "/images/MensCasualCargoPants.jpg",
       "category": "Men",
       "type": "Casual",
       "size": ["L", "XL"],
@@ -193,7 +193,7 @@
     {
       "id": 20,
       "name": "Men's Formal Tie",
-      "img": "/images/Mens Formal Tie.jpg",
+      "img": "/images/MensFormalTie.jpg",
       "category": "Men",
       "type": "Formal",
       "size": ["One Size"],
@@ -203,7 +203,7 @@
     {
       "id": 21,
       "name": "Children's Casual Cap",
-      "img": "/images/Childrens Casual Cap.jpg",
+      "img": "/images/ChildrensCasualCap.jpg",
       "category": "Children",
       "type": "Casual",
       "size": ["One Size"],
@@ -213,7 +213,7 @@
     {
       "id": 22,
       "name": "Children's Formal Bow Tie",
-      "img": "/images/Childrens Formal Bow Tie.jpg",
+      "img": "/images/ChildrensFormalBowTie.jpg",
       "category": "Children",
       "type": "Formal",
       "size": ["One Size"],
@@ -223,7 +223,7 @@
     {
       "id": 23,
       "name": "Men's Casual Jacket",
-      "img": "/images/Mens Casual Jacket.jpg",
+      "img": "/images/MensCasualJacket.jpg",
       "category": "Men",
       "type": "Casual",
       "size": ["M", "L", "XL"],
@@ -233,7 +233,7 @@
     {
       "id": 24,
       "name": "Men's Formal Overcoat",
-      "img": "/images/Mens Formal Overcoat.jpg",
+      "img": "/images/MensFormalOvercoat.jpg",
       "category": "Men",
       "type": "Formal",
       "size": ["L", "XL", "XXL"],
@@ -243,7 +243,7 @@
     {
       "id": 25,
       "name": "Children's Casual Sweater",
-      "img": "/images/Childrens Casual Sweater.jpg",
+      "img": "/images/ChildrensCasualSweater.jpg",
       "category": "Children",
       "type": "Casual",
       "size": ["XS", "S", "M"],
@@ -253,7 +253,7 @@
     {
       "id": 26,
       "name": "Children's Formal Coat",
-      "img": "/images/Childrens Formal Coat.jpg",
+      "img": "/images/ChildrensFormalCoat.jpg",
       "category": "Children",
       "type": "Formal",
       "size": ["S", "M", "L"],
@@ -263,7 +263,7 @@
     {
       "id": 27,
       "name": "Men's Casual T-Shirt",
-      "img": "/images/Mens Casual T-Shirt.jpg",
+      "img": "/images/MensCasualT-Shirt.jpg",
       "category": "Men",
       "type": "Casual",
       "size": ["M", "L", "XL", "XXL"],
@@ -273,7 +273,7 @@
     {
       "id": 28,
       "name": "Men's Formal Shirt",
-      "img": "/images/Mens Formal Shirt.jpg",
+      "img": "/images/MensFormalShirt.jpg",
       "category": "Men",
       "type": "Formal",
       "size": ["M", "L", "XL"],
@@ -283,7 +283,7 @@
     {
       "id": 29,
       "name": "Children's Casual Pajamas",
-      "img": "/images/Childrens Casual Pajamas.jpg",
+      "img": "/images/ChildrensCasualPajamas.jpg",
       "category": "Children",
       "type": "Casual",
       "size": ["XS", "S", "M"],
@@ -293,7 +293,7 @@
     {
       "id": 30,
       "name": "Children's Formal Shoes",
-      "img": "/images/children Formal Dress Shoes.jpg",
+      "img": "/images/childrenFormalDressShoes.jpg",
       "category": "Shoes",
       "type": "Formal",
       "size": ["S", "M", "L"],
@@ -303,7 +303,7 @@
   {
     "id": 31,
     "name": "Striped Cotton T-Shirt",
-    "img": "/images/Striped Cotton T-Shirt.jpg",
+    "img": "/images/StripedCottonT-Shirt.jpg",
     "category": "Tops",
     "goodCategory": "Clothing-Tops",
     "type": "Casual",
@@ -314,7 +314,7 @@
   {
     "id": 32,
     "name": "Slim Fit Jeans",
-    "img": "/images/Slim Fit Jeans.jpg",
+    "img": "/images/SlimFitJeans.jpg",
     "category": "Pants",
     "goodCategory": "Clothing-Pants",
     "type": "Casual",
@@ -325,7 +325,7 @@
   {
     "id": 33,
     "name": "Leather Ankle Boots",
-    "img": "/images/Leather Ankle Boots.jpg",
+    "img": "/images/LeatherAnkleBoots.jpg",
     "category": "Shoes",
     "goodCategory": "Footwear",
     "type": "Casual",
@@ -336,7 +336,7 @@
   {
     "id": 34,
     "name": "Silk Scarf",
-    "img": "/images/Silk Scarf.jpg",
+    "img": "/images/SilkScarf.jpg",
     "category": "Accessories",
     "goodCategory": "Accessories",
     "type": "Casual",
@@ -347,7 +347,7 @@
   {
     "id": 35,
     "name": "Wool Coat",
-    "img": "/images/Wool Coat.jpg",
+    "img": "/images/WoolCoat.jpg",
     "category": "Outerwear",
     "goodCategory": "Clothing-Outerwear",
     "type": "Winter",
@@ -358,7 +358,7 @@
   {
     "id": 36,
     "name": "Baseball Cap",
-    "img": "/images/Baseball Cap.jpg",
+    "img": "/images/BaseballCap.jpg",
     "category": "Accessories",
     "goodCategory": "Accessories",
     "type": "Casual",
@@ -369,7 +369,7 @@
   {
     "id": 37,
     "name": "Hooded Sweatshirt",
-    "img": "/images/Hooded Sweatshirt.jpg",
+    "img": "/images/HoodedSweatshirt.jpg",
     "category": "Tops",
     "goodCategory": "Clothing-Tops",
     "type": "Casual",
@@ -380,7 +380,7 @@
   {
     "id": 38,
     "name": "Chino Shorts",
-    "img": "/images/Chino Shorts.jpg",
+    "img": "/images/ChinoShorts.jpg",
     "category": "Pants",
     "goodCategory": "Clothing-Pants",
     "type": "Casual",
