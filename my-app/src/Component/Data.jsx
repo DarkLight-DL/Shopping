@@ -635,7 +635,7 @@ const filtered = dresses
                 <Box sx={{ position: 'relative' }}>
                   <CardMedia
                     component="img"
-                    image={item.img || 'https://via.placeholder.com/300'}
+                    image={`${process.env.PUBLIC_URL}/${item.img}` || 'https://via.placeholder.com/300'}
                     alt={item.name}
                     sx={{
                       height: 240,
