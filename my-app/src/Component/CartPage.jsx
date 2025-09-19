@@ -56,7 +56,9 @@ const CartPage = () => {
                 component="img"
                 
                 height="150"
-                image={item.img || 'https://via.placeholder.com/150'}
+                // image={item.img || 'https://via.placeholder.com/150'}
+                image={`${process.env.PUBLIC_URL}/${item.img}`}
+
                 alt={item.name}
                 sx={{ objectFit: 'contain' }}
               />

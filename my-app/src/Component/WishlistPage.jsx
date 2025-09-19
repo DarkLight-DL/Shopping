@@ -52,7 +52,9 @@ const WishlistPage = () => {
                 <CardMedia
                   component="img"
                   height="150"
-                  image={item.img}
+                  // image={item.img}
+                  image={`${process.env.PUBLIC_URL}/${item.img}`}
+
                   alt={item.name}
                   sx={{ objectFit: 'contain' }}
                 />
