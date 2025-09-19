@@ -23,7 +23,7 @@ const WishlistPage = () => {
 
   if (wishlistItems.length === 0) {
     return (
-      <Box sx={{height:'70vh',display:'flex',flexDirection:'column',alignItems:'center'}}>
+      <Box sx={{height:'100vh',display:'flex',flexDirection:'column',alignItems:'center'}}>
 
       <Typography variant="h6" sx={{ textAlign: 'center', mt: 5 }}>
         Your wishlist is empty.

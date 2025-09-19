@@ -15,7 +15,7 @@ const Footer = () => {
       <Box
         sx={{
           bgcolor: 'rgb(72, 118, 172)',
-          height: '20vh',
+          height: '100px',
           display: 'flex',
           justifyContent: 'center',
           alignItems: 'center',
