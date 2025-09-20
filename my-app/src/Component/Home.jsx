@@ -91,7 +91,7 @@ const Home = () => {
           bgcolor: 'rgba(73, 163, 188, 1)',
           backdropFilter: 'blur(4px)',
           position: 'sticky',
-          top: 2,
+          top:{ xs:0,sm:'15px',md:15,lg:10,xl:15},
           zIndex: 10,
           flexDirection: { xs: 'column', sm: 'row' },
           alignItems: 'center',
@@ -109,7 +109,7 @@ const Home = () => {
         </Typography>
 
         <Stack spacing={1} display="flex" sx={{ width: '100%' }} flexGrow={1}>
-          <Box sx={{ mr: 1, display: 'flex', gap: 1 }}>
+          <Box sx={{  display: 'flex', gap: 1 }}>
             <Button
               variant="outlined"
               onClick={() => setOpenFilter(true)}

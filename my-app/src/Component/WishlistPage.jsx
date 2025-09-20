@@ -38,7 +38,7 @@ const WishlistPage = () => {
   }
 
   return (
-    <Box sx={{ p: 3 }}>
+    <Box sx={{ p: 3 , pb: 10 }}>
       <Typography variant="h4" gutterBottom>
         Your Wishlist
       </Typography>

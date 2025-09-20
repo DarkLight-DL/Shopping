@@ -607,8 +607,8 @@ const filtered = dresses
 
 
   return (
-    <Box sx={{ padding: { xs: 2, sm: 3, md: 4 } }}>
-      <Grid container spacing={3}>
+    <Box sx={{ padding: { xs: 0, sm: 3, md: 4 } }}>
+      <Grid container spacing={1}>
         {filtered.map((item) => {
           const isInCart = cartItems.some((i) => i.id === item.id);
           const isInWishlist = wishlistItems.some((i) => i.id === item.id);
@@ -655,7 +655,7 @@ const filtered = dresses
                       right: 12,
                       bgcolor: 'white',
                       boxShadow: 2,
-                      '&:hover': { bgcolor: '#ffeef0' },
+                      '&:hover': { bgcolor: '#f87f8dff' },
                     }}
                   >
                     {isInWishlist ? <FavoriteIcon color="error" /> : <FavoriteBorderIcon />}
@@ -719,7 +719,7 @@ const filtered = dresses
                     flexDirection: 'row',
                     justifyContent:'center',
                     alignItems:'center',
-                    gap: 0.5,
+                    // gap: 0.5,
                   }}
                 >
                   <Button

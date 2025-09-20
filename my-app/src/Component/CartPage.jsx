@@ -53,8 +53,7 @@ const CartPage = () => {
           <Grid size={{ xs: 6, sm: 6, md: 4, lg: 3 }}  key={item.id}>
             <Card >
               <CardMedia
-                component="img"
-                
+                component="img"       
                 height="150"
                 // image={item.img || 'https://via.placeholder.com/150'}
                 image={`${process.env.PUBLIC_URL}/${item.img}`}

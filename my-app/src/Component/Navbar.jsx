@@ -56,9 +56,9 @@ const Navbar = () => {
             component={Link}
             to='/'
             onClick={scrollToTop}
-            sx={{ minWidth: '10px', bgcolor: 'rgba(77, 73, 73, 0.59)', boxShadow: '0px 5px 10px black', '&:hover': { bgcolor: 'rgba(40, 39, 39, 0.1)' } }}
+            sx={{ p:0.1,py:0.5,minWidth: '10px', bgcolor: 'rgba(77, 73, 73, 0.59)', boxShadow: '0px 5px 10px black', '&:hover': { bgcolor: 'rgba(40, 39, 39, 0.1)' } }}
           >
-            <HomeIcon sx={{ p: 0, mb: '3px', mr: "5px", pl: '5px' }} />
+            <HomeIcon sx={{ p: 0, mr: "5px", pl: '5px' }} />
             <Typography sx={{ p: 0, display: { xs: 'none', sm: 'none', lg: 'block' } }}>
               Home
             </Typography>
@@ -69,7 +69,7 @@ const Navbar = () => {
             component={Link}
             to='/wishlist'
             onClick={scrollToTop}
-            sx={{ minWidth: '10px', bgcolor: 'rgba(77, 73, 73, 0.59)', boxShadow: '0px 5px 10px black', '&:hover': { bgcolor: 'rgba(40, 39, 39, 0.1)' } }}
+            sx={{p:0.1,py:0.5, minWidth: '10px', bgcolor: 'rgba(77, 73, 73, 0.59)', boxShadow: '0px 5px 10px black', '&:hover': { bgcolor: 'rgba(40, 39, 39, 0.1)' } }}
             startIcon={(
               <Badge badgeContent={wishlistItems.length} color="error">
                 <FavoriteIcon sx={{ pl: '10px' }} />
@@ -87,7 +87,7 @@ const Navbar = () => {
             component={Link}
             to='/cart'
             onClick={scrollToTop}
-            sx={{ minWidth: '10px', bgcolor: 'rgba(77, 73, 73, 0.59)', boxShadow: '0px 5px 10px black', '&:hover': { bgcolor: 'rgba(40, 39, 39, 0.1)' } }}
+            sx={{ p:0.1,py:0.5,minWidth: '10px', bgcolor: 'rgba(77, 73, 73, 0.59)', boxShadow: '0px 5px 10px black', '&:hover': { bgcolor: 'rgba(40, 39, 39, 0.1)' } }}
 
             startIcon={(
               <Badge badgeContent={cartCount} color="secondary">
