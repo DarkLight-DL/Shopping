@@ -52,7 +52,7 @@
     },
     {
       "id": 6,
-      "name": "Children's Formal Dress Shirt",
+      "name": "Children's Formal Dress",
       "img": "/images/ChildrensFormalDressShirt.jpg",
       "category": "Children",
       "type": "Formal",
@@ -112,7 +112,7 @@
     },
     {
       "id": 12,
-      "name": "Men's Formal Dress Pants",
+      "name": "Men's Formal Pants",
       "img": "/images/MensFormalDressPants.jpg",
       "category": "Men",
       "type": "Formal",
@@ -182,7 +182,7 @@
     },
     {
       "id": 19,
-      "name": "Men's Casual Cargo Pants",
+      "name": "Men's Cargo Pants",
       "img": "/images/MensCasualCargoPants.jpg",
       "category": "Men",
       "type": "Casual",
@@ -212,7 +212,7 @@
     },
     {
       "id": 22,
-      "name": "Children's Formal Bow Tie",
+      "name": "Children's Bow Tie",
       "img": "/images/ChildrensFormalBowTie.jpg",
       "category": "Children",
       "type": "Formal",
