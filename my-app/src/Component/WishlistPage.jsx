@@ -39,16 +39,17 @@ const WishlistPage = () => {
 
   return (
     <Box sx={{ p: 3 , pb: 10 }}>
-      <Typography variant="h4" gutterBottom>
+      <Typography variant="h4" gutterBottom sx={{ textDecoration: 'underline',fontWeight:'bold' ,mb:2}}>
         Your Wishlist
       </Typography>
+
       <Grid container spacing={2}>
         {wishlistItems.map((item) => {
           const isInCart = cartItems.some((i) => i.id === item.id);
 
           return (
             <Grid size={{ xs: 6, sm: 6, md: 4, lg: 3 }}  key={item.id}>
-              <Card>
+              <Card sx={{boxShadow:'0px 0px 10px '}}>
                 <CardMedia
                   component="img"
                   height="150"
