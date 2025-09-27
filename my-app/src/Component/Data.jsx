@@ -66,7 +66,7 @@ const filtered = dresses
 
 
   return (
-    <Box sx={{ p: { xs: 0, sm: 3, md: 4 },my:2 }}>
+    <Box sx={{ p: { xs: 0, sm: 3, md: 4 },margin:'20px 5px 60px 5px' }}>
       <Grid container spacing={1}>
         {filtered.map((item) => {
           const isInCart = cartItems.some((i) => i.id === item.id);
