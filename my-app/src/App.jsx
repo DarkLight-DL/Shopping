@@ -1,14 +1,15 @@
-// src/App.js
+
+import './App.css'
 import React from 'react';
 // import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import { HashRouter as Router, Route, Routes } from 'react-router-dom';
-import { CartProvider } from './Component/CartContext';
-import { WishlistProvider } from './Component/WishlistContext';
-import CartPage from './Component/CartPage';
-import WishlistPage from './Component/WishlistPage';
-import Home from './Component/Home';
-import Navbar from './Component/Navbar';
-import Footer from './Component/Footer';
+import { CartProvider } from './components/CartContext';
+import { WishlistProvider } from './components/WishlistContext';
+import CartPage from './components/CartPage';
+import WishlistPage from './components/WishlistPage';
+import Home from './components/Home';
+import Navbar from './components/Navbar';
+import Footer from './components/Footer';
 
 const App = () => {
   return (
